@@ -4,14 +4,16 @@
     <meta charset="UTF-8">
     <title>Weather</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body class="text-center">
 <form action="/" method="post">
-    <img src="" alt="">
-    <lable for="cityName">City Name: </lable>
-    <input id="CityName" type="text" name="cityName">
-    <button type="submit">Go</button>
+    <h1 class="mb-3 font-weight-normal">Welcome to Yoad's Weather</h1>
+    <div class="container-fluid">
+    <input id="CityName" type="text" name="cityName" placeholder="Enter the location" style="text-align: center" required autofocus> <br>
+    <button class="btn btn-lg btn-primary" type="submit" style="margin-top: 10px">Go</button>
+    <p class="mt-5 mb-3 text-muted">&copy; 2020</p>
+    </div>
 </form>
 </body>
 </html>
