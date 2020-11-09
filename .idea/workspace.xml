@@ -12,6 +12,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -25,6 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,7 +39,7 @@
       <updated>1604597851217</updated>
       <workItem from="1604597852583" duration="194000" />
       <workItem from="1604598301873" duration="7926000" />
-      <workItem from="1604949707519" duration="708000" />
+      <workItem from="1604949707519" duration="2220000" />
     </task>
     <servers />
   </component>
@@ -45,6 +47,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1205" y="382" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604950535587">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1205" y="382" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1604950535587" />
     <state x="667" y="179" width="585" height="801" key="find.popup" timestamp="1604597930102">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
